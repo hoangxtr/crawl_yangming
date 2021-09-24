@@ -1,2 +1,2 @@
 # crawl_yangming
-this code for automation craw yangming captcha for training model
+this code for automatically crawling yangming captcha for training model
